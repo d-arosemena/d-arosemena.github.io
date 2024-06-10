@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-avatar
 title: My portfolio's homepage
-{% avatar d-arosemena %}
+{% avatar d-arosemena size=50 %}
 author:
   name:  Diana Arosemena
   email: diana.arosemena@gmail.com
