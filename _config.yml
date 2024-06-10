@@ -2,8 +2,7 @@ theme: minima
 plugins:
   - jekyll-feed
 title: My projects' portfolio
-author:
-  name: Diana Arosemena
+author: Diana Arosemena
   email: diana.arosemena@gmail.com
-  avatar: /assets/images/72526431.jpg
+  url: https://github.com/d-arosemena/d-arosemena.github.io/blob/f84ca628f38a67cb277829c72f0af4dd07e0aecb/assets/images/72526431.jpg
 description: Portfolio of projects made by Diana Arosemena, an Industrial Mechanical Engineer passionate about leveraging technology to solve complex problems and enhance operational efficiency.
