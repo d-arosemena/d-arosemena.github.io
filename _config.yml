@@ -2,8 +2,9 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-avatar
 title: My portfolio's homepage
-{% avatar d-arosemena size=50 %}
 author:
   name:  Diana Arosemena
   email: diana.arosemena@gmail.com
+  
+{% avatar d-arosemena size=50 %}
 description: Portfolio of projects made by Diana Arosemena, an Industrial Mechanical Engineer passionate about leveraging technology to solve complex problems and enhance operational efficiency..
