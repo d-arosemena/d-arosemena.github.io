@@ -1,4 +1,6 @@
-theme: jekyll-theme-minimal
+theme: minima
+plugins:
+  - jekyll-feed
 title: My projects' portfolio
 author:
   name: Diana Arosemena
