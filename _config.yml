@@ -3,5 +3,6 @@ plugins:
   - jekyll-avatar
 title: My projects' portfolio
 author: Diana Arosemena
+avatar: d-arosemena
 github_username: d-arosemena
 description: Portfolio of projects made by Diana Arosemena, an Industrial Mechanical Engineer passionate about leveraging technology to solve complex problems and enhance operational efficiency.
