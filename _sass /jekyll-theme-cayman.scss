@@ -110,7 +110,7 @@ a {
     text-align: center;
     background-color: #8C1515;
     background-image: url("/_sas/img/561076.png");
-    background-size: cover
+    background-size: 100% auto;
 
   @include large {
     padding: 5rem 6rem;
