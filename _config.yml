@@ -3,6 +3,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: DA's projects portfolio
 author: Diana Arosemena
+syntax_theme: ./syntax.css # Leave empty for default, otherwise link to a pygments stylesheet
 colors:
     gradient_left: "#155799"
     gradient_right: "#159957"
