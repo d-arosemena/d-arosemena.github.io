@@ -3,5 +3,12 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: DA's projects portfolio
 author: Diana Arosemena
+colors:
+    gradient_left: "#155799"
+    gradient_right: "#159957"
+    header: "#fff"
+    android_theme: "#000" # this default to gradient_color
+    link: "#1e6bb8" # this default to gradient_color
+    section_title: "#155799" # this default to gradient_color
 github_username: d-arosemena
 description: Portfolio of projects made by Diana Arosemena, an Industrial Mechanical Engineer passionate about leveraging technology to solve complex problems and enhance operational efficiency.
